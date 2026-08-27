@@ -1,0 +1,52 @@
+Added Pin To Net: NetName=SET Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=WAKE Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-4
+Added Member To Class: ClassName=Main Member=Component C1 10uF
+Added Member To Class: ClassName=Main Member=Component C2 1uF
+Added Member To Class: ClassName=Main Member=Component C3 0.1µF
+Added Member To Class: ClassName=Main Member=Component C4 10nF
+Added Member To Class: ClassName=Main Member=Component C5 10nF
+Added Member To Class: ClassName=Main Member=Component C6 100nF
+Added Member To Class: ClassName=Main Member=Component C7 100nF
+Added Member To Class: ClassName=Main Member=Component D1 LTST-C190KGKT
+Added Member To Class: ClassName=Main Member=Component D2 150120RS75000
+Added Member To Class: ClassName=Main Member=Component D3 150120RS75000
+Added Member To Class: ClassName=Main Member=Component D4 150120RS75000
+Added Member To Class: ClassName=Main Member=Component R1 1kO
+Added Member To Class: ClassName=Main Member=Component R2 1k
+Added Member To Class: ClassName=Main Member=Component R3 10kO
+Added Member To Class: ClassName=Main Member=Component R4 10kO
+Added Member To Class: ClassName=Main Member=Component R5 10k
+Added Member To Class: ClassName=Main Member=Component R6 10k
+Added Member To Class: ClassName=Main Member=Component R7 10k
+Added Member To Class: ClassName=Main Member=Component R8 10k
+Added Member To Class: ClassName=Main Member=Component R9 10k
+Added Member To Class: ClassName=Main Member=Component R10 10k
+Added Member To Class: ClassName=Main Member=Component R11 10kO
+Added Member To Class: ClassName=Main Member=Component R12 470O
+Added Member To Class: ClassName=Main Member=Component R13 470O
+Added Member To Class: ClassName=Main Member=Component R14 470O
+Added Member To Class: ClassName=Main Member=Component R15 470O
+Added Member To Class: ClassName=Main Member=Component R17 470O
+Added Member To Class: ClassName=Main Member=Component R20 10kO
+Added Member To Class: ClassName=Main Member=Component R21 470O
+Added Member To Class: ClassName=Main Member=Component R22 470O
+Added Member To Class: ClassName=Main Member=Component R24 470O
+Added Member To Class: ClassName=Main Member=Component R26 470O
+Added Member To Class: ClassName=Main Member=Component R28 10kO
+Added Member To Class: ClassName=Main Member=Component R29 10kO
+Added Member To Class: ClassName=Main Member=Component R30 470O
+Added Member To Class: ClassName=Main Member=Component R35 470O
+Added Member To Class: ClassName=Main Member=Component R36 470O
+Added Member To Class: ClassName=Main Member=Component R37 10kO
+Added Member To Class: ClassName=Main Member=Component R38 10kO
+Added Member To Class: ClassName=Main Member=Component R39 470O
+Added Member To Class: ClassName=Main Member=Component S1 SWT0325-073016TSK_REVA
+Added Member To Class: ClassName=Main Member=Component S2 SWT0325-073016TSK_REVA
+Added Member To Class: ClassName=Main Member=Component U1 RV-3028-C7 32.768kHz 1ppm TA QC
+Added Member To Class: ClassName=Main Member=Component U2 ATTINY1616-MFR
+Added Member To Class: ClassName=Main Member=Component U3 CD74HCT4511E
+Added Member To Class: ClassName=Main Member=Component U4 74HC595PW,118
+Added Member To Class: ClassName=Main Member=Component U5 CD74HCT4511E
+Added Member To Class: ClassName=Main Member=Component U6 74HC595PW,118

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=5V0 Pin=R9-1
+Added Pin To Net: NetName=5V0 Pin=R18-1
+Added Pin To Net: NetName=5V0 Pin=R27-1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

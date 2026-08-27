@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=R3 NewDesignator=R8
+Change Component Designator: OldDesignator=R4 NewDesignator=R10
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Component: Designator=MT1(XDCR_PEC11R-4215F-S0024)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PEC11R-4215F-S0024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ONOFF Pin=MT1-1
+Added Pin To Net: NetName=GND Pin=MT1-2
+Added Pin To Net: NetName=GND Pin=MT1-COM
+Added Pin To Net: NetName=GND Pin=MT1-S1
+Added Pin To Net: NetName=GND Pin=MT1-S2
+Added Pin To Net: NetName=NetMT1_A Pin=MT1-A
+Added Pin To Net: NetName=NetMT1_A Pin=R4-1
+Added Pin To Net: NetName=NetMT1_A Pin=R7-1
+Added Net: Name=NetMT1_A
+Added Pin To Net: NetName=NetMT1_B Pin=MT1-B
+Added Pin To Net: NetName=NetMT1_B Pin=R3-1
+Added Pin To Net: NetName=NetMT1_B Pin=R9-1
+Added Net: Name=NetMT1_B
+Added Member To Class: ClassName=Main Member=Component MT1 PEC11R-4215F-S0024

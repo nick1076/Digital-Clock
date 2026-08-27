@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=GND Pin=R34-1
+Change Component Comment : Designator=R31 Old Comment=470O New Comment=1kO
+Change Component Comment : Designator=R32 Old Comment=470O New Comment=1kO
+Change Component Comment : Designator=R33 Old Comment=470O New Comment=1kO
+Change Component Comment : Designator=R34 Old Comment=470O New Comment=1kO
+Added Component: Designator=Q1(FP-C04-17458-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "85mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Resistance"; Value = "25O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "950µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "50pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "360mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "47153607"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "360mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "25O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "7ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541210080, 8541210080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "12ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "10ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "1.437803g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.3mm"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BL_PWM Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=BL_PWM Pin=R40-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R31-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R32-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R33-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R34-1
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=Main Member=Component Q1 DMN2058U-13
+Added Member To Class: ClassName=Main Member=Component R1 10kO
+Added Member To Class: ClassName=Main Member=Component R3 470O
+Added Member To Class: ClassName=Main Member=Component R4 470O
+Added Member To Class: ClassName=Main Member=Component R5 470O
+Added Member To Class: ClassName=Main Member=Component R7 470O
+Added Member To Class: ClassName=Main Member=Component R8 470O
+Added Member To Class: ClassName=Main Member=Component R9 10kO
+Added Member To Class: ClassName=Main Member=Component R10 10kO
+Added Member To Class: ClassName=Main Member=Component R11 470O
+Added Member To Class: ClassName=Main Member=Component R12 470O
+Added Member To Class: ClassName=Main Member=Component R14 470O
+Added Member To Class: ClassName=Main Member=Component R15 470O
+Added Member To Class: ClassName=Main Member=Component R16 470O
+Added Member To Class: ClassName=Main Member=Component R17 470O
+Added Member To Class: ClassName=Main Member=Component R18 10kO
+Added Member To Class: ClassName=Main Member=Component R19 10kO
+Added Member To Class: ClassName=Main Member=Component R21 470O
+Added Member To Class: ClassName=Main Member=Component R23 470O
+Added Member To Class: ClassName=Main Member=Component R25 470O
+Added Member To Class: ClassName=Main Member=Component R27 10kO
+Added Member To Class: ClassName=Main Member=Component R28 10kO
+Added Member To Class: ClassName=Main Member=Component R40 10kO
+Added Member To Class: ClassName=Main Member=Component U2 74HC595PW,118
+Added Member To Class: ClassName=Main Member=Component U3 CD74HCT4511E
+Added Member To Class: ClassName=Main Member=Component U4 74HC595PW,118

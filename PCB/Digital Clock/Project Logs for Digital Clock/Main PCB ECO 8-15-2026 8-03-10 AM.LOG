@@ -1,0 +1,405 @@
+Removed Pin From Net: NetName=5V0 Pin=U1-4
+Removed Pin From Net: NetName=Q[1] Pin=U2-1
+Removed Pin From Net: NetName=Q[2] Pin=U2-2
+Removed Pin From Net: NetName=5V0 Pin=U2-4
+Removed Pin From Net: NetName=Q[3] Pin=U2-6
+Removed Pin From Net: NetName=Q[0] Pin=U2-7
+Removed Pin From Net: NetName=Q[1] Pin=U3-1
+Removed Pin From Net: NetName=Q[2] Pin=U3-2
+Removed Pin From Net: NetName=5V0 Pin=U3-4
+Removed Pin From Net: NetName=Q[3] Pin=U3-6
+Removed Pin From Net: NetName=Q[0] Pin=U3-7
+Removed Pin From Net: NetName=Q[1] Pin=U4-1
+Removed Pin From Net: NetName=Q[2] Pin=U4-2
+Removed Pin From Net: NetName=5V0 Pin=U4-4
+Removed Pin From Net: NetName=Q[3] Pin=U4-6
+Removed Pin From Net: NetName=Q[0] Pin=U4-7
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13 NewDesignator=R16
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R20
+Change Component Designator: OldDesignator=R16 NewDesignator=R21
+Change Component Designator: OldDesignator=R17 NewDesignator=R22
+Change Component Designator: OldDesignator=R18 NewDesignator=R23
+Change Component Designator: OldDesignator=R19 NewDesignator=R24
+Change Component Designator: OldDesignator=R20 NewDesignator=R25
+Change Component Designator: OldDesignator=R21 NewDesignator=R26
+Change Component Designator: OldDesignator=R22 NewDesignator=R29
+Change Component Designator: OldDesignator=R23 NewDesignator=R30
+Change Component Designator: OldDesignator=R24 NewDesignator=R35
+Change Component Designator: OldDesignator=R25 NewDesignator=R36
+Change Component Designator: OldDesignator=R26 NewDesignator=R37
+Change Component Designator: OldDesignator=R27 NewDesignator=R38
+Change Component Designator: OldDesignator=R28 NewDesignator=R39
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Change Component Designator: OldDesignator=U4 NewDesignator=U7
+Added Component: Designator=C1(WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow)
+Added Component: Designator=C2(WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow)
+Added Component: Designator=C3(WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow)
+Added Component: Designator=C4(WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow)
+Added Component: Designator=C5(WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow)
+Added Component: Designator=C6(WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow)
+Added Component: Designator=C7(WCAP-CSGP_0603_L1.6W0.8H0.8_Reflow)
+Added Component: Designator=D1(WL-SMCW_1206_150120xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "680µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "150mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "72mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=D2(WL-SMCW_1206_150120xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "680µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "150mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "72mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=D3(WL-SMCW_1206_150120xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "680µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "150mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "72mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=D4(WL-SMCW_1206_150120xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "680µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "150mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "72mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1608X55X25NL10T15)
+Added Component: Designator=R10(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC1608X55X25NL10T15)
+Added Component: Designator=R19(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RESC1608X55X25NL10T15)
+Added Component: Designator=R28(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RESC3216X70X50NL05T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ8ENF3300V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(FP-SOT403-1-MFG)
+Added Component: Designator=U4(FP-SOT403-1-MFG)
+Added Component: Designator=U6(FP-SOT403-1-MFG)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V0 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5V0 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V0 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V0 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=5V0 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=5V0 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=5V0 Pin=C7-2
+Added Pin To Net: NetName=5V0 Pin=R1-2
+Added Pin To Net: NetName=5V0 Pin=R10-2
+Added Pin To Net: NetName=5V0 Pin=R19-2
+Added Pin To Net: NetName=5V0 Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=Q[1] Pin=U2-1
+Added Pin To Net: NetName=Q[2] Pin=U2-2
+Added Pin To Net: NetName=Q[3] Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=5V0 Pin=U2-10
+Added Pin To Net: NetName=Q[0] Pin=U2-15
+Added Pin To Net: NetName=5V0 Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=5V0 Pin=U4-10
+Added Pin To Net: NetName=5V0 Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=5V0 Pin=U6-10
+Added Pin To Net: NetName=5V0 Pin=U6-16
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR35_1
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR35_2
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR36_1
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR37_1
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetR39_2
+Added Pin To Net: NetName=3V3 Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R18-1
+Added Pin To Net: NetName=3V3 Pin=R27-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=AMIndicator Pin=D3-2
+Added Pin To Net: NetName=AMIndicator Pin=U6-2
+Added Net: Name=AMIndicator
+Added Pin To Net: NetName=BL_PWM Pin=R1-1
+Added Pin To Net: NetName=BL_PWM Pin=R10-1
+Added Pin To Net: NetName=BL_PWM Pin=R19-1
+Added Pin To Net: NetName=BL_PWM Pin=R28-1
+Added Pin To Net: NetName=BL_PWM Pin=U1-4
+Added Pin To Net: NetName=BL_PWM Pin=U3-4
+Added Pin To Net: NetName=BL_PWM Pin=U5-4
+Added Pin To Net: NetName=BL_PWM Pin=U7-4
+Added Net: Name=BL_PWM
+Added Pin To Net: NetName=CenterDotLED1 Pin=D1-2
+Added Pin To Net: NetName=CenterDotLED1 Pin=U6-15
+Added Net: Name=CenterDotLED1
+Added Pin To Net: NetName=CenterDotLED2 Pin=D2-2
+Added Pin To Net: NetName=CenterDotLED2 Pin=U6-1
+Added Net: Name=CenterDotLED2
+Added Pin To Net: NetName=CLK Pin=U2-11
+Added Pin To Net: NetName=CLK Pin=U4-11
+Added Pin To Net: NetName=CLK Pin=U6-11
+Added Net: Name=CLK
+Added Pin To Net: NetName=DIN Pin=U2-14
+Added Net: Name=DIN
+Added Pin To Net: NetName=LATCH_CLK Pin=U2-12
+Added Pin To Net: NetName=LATCH_CLK Pin=U4-12
+Added Pin To Net: NetName=LATCH_CLK Pin=U6-12
+Added Net: Name=LATCH_CLK
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R31-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R32-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R33-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R34-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=NetU2_9 Pin=U4-14
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=NetU4_9 Pin=U4-9
+Added Pin To Net: NetName=NetU4_9 Pin=U6-14
+Added Net: Name=NetU4_9
+Added Pin To Net: NetName=OE Pin=R9-2
+Added Pin To Net: NetName=OE Pin=R18-2
+Added Pin To Net: NetName=OE Pin=R27-2
+Added Pin To Net: NetName=OE Pin=U2-13
+Added Pin To Net: NetName=OE Pin=U4-13
+Added Pin To Net: NetName=OE Pin=U6-13
+Added Net: Name=OE
+Added Pin To Net: NetName=PMIndicator Pin=D4-2
+Added Pin To Net: NetName=PMIndicator Pin=U6-3
+Added Net: Name=PMIndicator
+Added Pin To Net: NetName=Q[4] Pin=U2-4
+Added Pin To Net: NetName=Q[4] Pin=U3-7
+Added Net: Name=Q[4]
+Added Pin To Net: NetName=Q[5] Pin=U2-5
+Added Pin To Net: NetName=Q[5] Pin=U3-1
+Added Net: Name=Q[5]
+Added Pin To Net: NetName=Q[6] Pin=U2-6
+Added Pin To Net: NetName=Q[6] Pin=U3-2
+Added Net: Name=Q[6]
+Added Pin To Net: NetName=Q[7] Pin=U2-7
+Added Pin To Net: NetName=Q[7] Pin=U3-6
+Added Net: Name=Q[7]
+Added Pin To Net: NetName=Q[8] Pin=U4-15
+Added Pin To Net: NetName=Q[8] Pin=U5-7
+Added Net: Name=Q[8]
+Added Pin To Net: NetName=Q[9] Pin=U4-1
+Added Pin To Net: NetName=Q[9] Pin=U5-1
+Added Net: Name=Q[9]
+Added Pin To Net: NetName=Q[10] Pin=U4-2
+Added Pin To Net: NetName=Q[10] Pin=U5-2
+Added Net: Name=Q[10]
+Added Pin To Net: NetName=Q[11] Pin=U4-3
+Added Pin To Net: NetName=Q[11] Pin=U5-6
+Added Net: Name=Q[11]
+Added Pin To Net: NetName=Q[12] Pin=U4-4
+Added Pin To Net: NetName=Q[12] Pin=U7-7
+Added Net: Name=Q[12]
+Added Pin To Net: NetName=Q[13] Pin=U4-5
+Added Pin To Net: NetName=Q[13] Pin=U7-1
+Added Net: Name=Q[13]
+Added Pin To Net: NetName=Q[14] Pin=U4-6
+Added Pin To Net: NetName=Q[14] Pin=U7-2
+Added Net: Name=Q[14]
+Added Pin To Net: NetName=Q[15] Pin=U4-7
+Added Pin To Net: NetName=Q[15] Pin=U7-6
+Added Net: Name=Q[15]
+Added Member To Class: ClassName=Main Member=Component C1 100nF
+Added Member To Class: ClassName=Main Member=Component C2 100nF
+Added Member To Class: ClassName=Main Member=Component C3 100nF
+Added Member To Class: ClassName=Main Member=Component C4 100nF
+Added Member To Class: ClassName=Main Member=Component C5 100nF
+Added Member To Class: ClassName=Main Member=Component C6 100nF
+Added Member To Class: ClassName=Main Member=Component C7 100nF
+Added Member To Class: ClassName=Main Member=Component D1 150120RS75000
+Added Member To Class: ClassName=Main Member=Component D2 150120RS75000
+Added Member To Class: ClassName=Main Member=Component D3 150120RS75000
+Added Member To Class: ClassName=Main Member=Component D4 150120RS75000
+Added Member To Class: ClassName=Main Member=Component R29 470O
+Added Member To Class: ClassName=Main Member=Component R30 470O
+Added Member To Class: ClassName=Main Member=Component R31 470O
+Added Member To Class: ClassName=Main Member=Component R32 470O
+Added Member To Class: ClassName=Main Member=Component R33 470O
+Added Member To Class: ClassName=Main Member=Component R34 470O
+Added Member To Class: ClassName=Main Member=Component R35 470O
+Added Member To Class: ClassName=Main Member=Component R36 470O
+Added Member To Class: ClassName=Main Member=Component R37 470O
+Added Member To Class: ClassName=Main Member=Component R38 470O
+Added Member To Class: ClassName=Main Member=Component R39 470O
+Added Member To Class: ClassName=Main Member=Component U5 CD74HCT4511E
+Added Member To Class: ClassName=Main Member=Component U6 74HC595PW,118
+Added Member To Class: ClassName=Main Member=Component U7 CD74HCT4511E
+Added Rule: Name=Schematic Supply Nets_2

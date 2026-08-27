@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=ONOFF Pin=MT1-1
+Removed Pin From Net: NetName=GND Pin=MT1-2
+Removed Pin From Net: NetName=GND Pin=MT1-COM
+Removed Pin From Net: NetName=GND Pin=MT1-S1
+Removed Pin From Net: NetName=GND Pin=MT1-S2
+Removed Member From Class: ClassName=Main Member=MT1
+Add Component: Footprint Not Found XDCR_PEC11R-4215F-S0024
+Add Pin To Net: Unknown Pin: Pin MT?-1
+Add Pin To Net: Unknown Pin: Pin MT?-2
+Add Pin To Net: Unknown Pin: Pin MT?-COM
+Add Pin To Net: Unknown Pin: Pin MT?-S1
+Add Pin To Net: Unknown Pin: Pin MT?-S2
+Added Pin To Net: NetName=NetMT?_A Pin=R6-1
+Added Pin To Net: NetName=NetMT?_A Pin=R9-1
+Added Net: Name=NetMT?_A
+Added Pin To Net: NetName=NetMT?_B Pin=R5-1
+Added Pin To Net: NetName=NetMT?_B Pin=R10-1
+Added Net: Name=NetMT?_B
+Add Class Member: Failed to add class member : Component MT? PEC11R-4215F-S0024

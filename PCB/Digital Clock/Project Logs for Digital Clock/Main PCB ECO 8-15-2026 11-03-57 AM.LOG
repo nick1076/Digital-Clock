@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetJ1_B5 Pin=J1-A5
+Removed Pin From Net: NetName=NetJ1_B5 Pin=R13-2
+Removed Pin From Net: NetName=SET Pin=S1-1
+Removed Pin From Net: NetName=WAKE Pin=S2-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R13-2
+Added Pin To Net: NetName=WAKE Pin=S1-1
+Added Pin To Net: NetName=SET Pin=S2-1
+Added Member To Class: ClassName=Main Member=Component R13 5.1kO
+Added Member To Class: ClassName=Main Member=Component R14 470O
+Added Member To Class: ClassName=Main Member=Component R15 470O
+Added Member To Class: ClassName=Main Member=Component R16 470O
+Added Member To Class: ClassName=Main Member=Component R18 470O
+Added Member To Class: ClassName=Main Member=Component R19 470O
+Added Member To Class: ClassName=Main Member=Component R20 5.1kO
+Added Member To Class: ClassName=Main Member=Component R22 10kO
+Added Member To Class: ClassName=Main Member=Component R23 470O
+Added Member To Class: ClassName=Main Member=Component R25 470O
+Added Member To Class: ClassName=Main Member=Component R26 470O
+Added Member To Class: ClassName=Main Member=Component R30 10kO
+Added Member To Class: ClassName=Main Member=Component R31 10kO
+Added Member To Class: ClassName=Main Member=Component R32 470O
+Added Member To Class: ClassName=Main Member=Component R33 470O
+Added Member To Class: ClassName=Main Member=Component R34 470O
+Added Member To Class: ClassName=Main Member=Component R35 470O
+Added Member To Class: ClassName=Main Member=Component R36 470O
+Added Member To Class: ClassName=Main Member=Component R39 10kO
+Added Member To Class: ClassName=Main Member=Component R40 10kO
+Added Member To Class: ClassName=Main Member=Component R43 1kO
+Added Member To Class: ClassName=Main Member=Component R44 1kO
+Added Member To Class: ClassName=Main Member=Component R45 1kO
+Added Member To Class: ClassName=Main Member=Component R46 1kO
+Added Member To Class: ClassName=Main Member=Component R47 470O
+Added Member To Class: ClassName=Main Member=Component R48 470O
+Added Member To Class: ClassName=Main Member=Component R49 470O
